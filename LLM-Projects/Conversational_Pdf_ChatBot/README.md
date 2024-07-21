@@ -17,6 +17,6 @@
 <a href="https://drive.google.com/file/d/1Q6hnmNIdRGF0pZ7CUWRv5ZK8q345c2NM/view?usp=drive_link">Project-details.pdf</a>
 <br>
 <br>
-<h3>Working video of the chatbot</h3>
-
-[![Watch the video](https://raw.githubusercontent.com/Mirza-Anas/AI-Projects/main/LLM-Projects/Conversational_Pdf_ChatBot/video-thumbnail.png)](https://raw.githubusercontent.com/Mirza-Anas/AI-Projects/main/LLM-Projects/Conversational_Pdf_ChatBot/Conversation-Pdf-ChatBot-a-Hugging-Face-Space-by-mirzanas.mp4)
+<h3>Working video of the chatbot: Click on Image to view the Video</h3>
+<br>
+<a href="https://drive.google.com/file/d/1PHppLe7rogAVMVuO3K-YbqhAIceSsFHw/view?usp=drive_link"><img src="https://raw.githubusercontent.com/Mirza-Anas/AI-Projects/main/LLM-Projects/Conversational_Pdf_ChatBot/video-thumbnail.png"></a>
