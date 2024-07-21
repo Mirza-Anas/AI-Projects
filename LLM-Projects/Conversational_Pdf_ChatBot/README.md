@@ -13,3 +13,6 @@
   </ol>
 </h4>
 
+<h3>Details of the Project PDF</h3>
+<a src="https://drive.google.com/file/d/1Q6hnmNIdRGF0pZ7CUWRv5ZK8q345c2NM/view?usp=drive_link">File</a>
+
