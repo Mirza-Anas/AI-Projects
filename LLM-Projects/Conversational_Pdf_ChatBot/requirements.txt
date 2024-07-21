@@ -1,0 +1,6 @@
+langchain
+streamlit
+langchain-huggingface
+python-dotenv
+langchain_community
+faiss-gpu
